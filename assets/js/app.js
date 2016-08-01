@@ -4,8 +4,8 @@ var LocsB = [
         lon: 11.3,
         title: 'Title A2',
         html: [
-            '<h3>Content A2</h3>',
-            '<p>Lorem Ipsum</p>'
+            '<h3 style="color: black;">Content A2</h3>',
+            '<p style="color: black;">Lorem Ipsum</p>'
         ].join(''),
         zoom: 8
     },
@@ -14,8 +14,8 @@ var LocsB = [
         lon:   22.2,
         title: 'Title B2',
         html: [
-            '<h3>Content B2</h3>',
-            '<p>Lorem Ipsum</p>'
+            '<h3 style="color: black;">Content B2</h3>',
+            '<p style="color: black;">Lorem Ipsum</p>'
         ].join(''),
         zoom: 8
     },
@@ -24,8 +24,8 @@ var LocsB = [
         lon: 35.9,
         title: 'Title C2',
         html: [
-            '<h3>Content C2</h3>',
-            '<p>Lorem Ipsum</p>'            
+            '<h3 style="color: black;">Content C2</h3>',
+            '<p style="color: black;">Lorem Ipsum</p>'            
         ].join(''),
         zoom: 4
     },
@@ -34,8 +34,8 @@ var LocsB = [
         lon: 15.6,
         title: 'Title D2',
         html: [
-            '<h3>Content D2</h3>',
-            '<p>Lorem Ipsum</p>'
+            '<h3 style="color: black;">Content D2</h3>',
+            '<p style="color: black;">Lorem Ipsum</p>'
         ].join(''),
         zoom: 6
     }
