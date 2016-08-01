@@ -1,7 +1,7 @@
 var LocsB = [
     {
-        lat: 52.1,
-        lon: 11.3,
+        lat: -2.282337,
+        lon: 112.985666,
         title: 'Title A2',
         html: [
             '<h3 style="color: black;">Content A2</h3>',
@@ -10,8 +10,8 @@ var LocsB = [
         zoom: 8
     },
     {
-        lat: 51.2,
-        lon:   22.2,
+        lat: -2.282337,
+        lon: 112.985679,
         title: 'Title B2',
         html: [
             '<h3 style="color: black;">Content B2</h3>',
@@ -20,8 +20,8 @@ var LocsB = [
         zoom: 8
     },
     {
-        lat: 49.4,
-        lon: 35.9,
+        lat: -2.525837,
+        lon: 112.944810,
         title: 'Title C2',
         html: [
             '<h3 style="color: black;">Content C2</h3>',
@@ -30,8 +30,8 @@ var LocsB = [
         zoom: 4
     },
     {
-        lat: 47.8,
-        lon: 15.6,
+        lat: -2.528508,
+        lon: 112.943725,
         title: 'Title D2',
         html: [
             '<h3 style="color: black;">Content D2</h3>',
